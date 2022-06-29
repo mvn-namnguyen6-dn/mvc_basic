@@ -1,5 +1,3 @@
-# views/posts/index.php
-
 <?php
 echo '<ul>';
 foreach ($posts as $post) {

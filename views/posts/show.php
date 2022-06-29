@@ -1,7 +1,6 @@
-# views/posts/show.php
 
 <?php
-  echo "Tiêu đề: $post->title";
+  echo "Tiêu đề:" . $data['post']->title;
   echo "\n";
-  echo "Nội dung: $post->content";
+  echo "Nội dung:" .$data['post']->content;
 ?>

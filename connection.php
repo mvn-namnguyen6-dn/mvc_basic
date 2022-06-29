@@ -1,5 +1,3 @@
-# connection.php
-
 <?php
 class DB
 {

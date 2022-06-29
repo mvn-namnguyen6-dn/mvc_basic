@@ -1,4 +1,4 @@
-# controllers/pages_controller.php
+
 
 <?php
 require_once('controllers/base_controller.php');

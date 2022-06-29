@@ -1,4 +1,4 @@
-# views/layouts/application.php
+
 
 <DOCTYPE html>
 <html>
@@ -9,6 +9,6 @@
     <title>Demo PHP MVC</title>
   </head>
   <body>
-    <?= @$content ?>
+    <?=@$content ?>
   </body>
 </html>
